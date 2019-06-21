@@ -1,0 +1,45 @@
+td a{
+    color: white;
+    text-align: center;
+}
+td a:hover{
+    color: white;
+}
+.card-header{
+    background: none;
+}
+.card .list-group{
+    margin-bottom: 20px;
+    max-width: 350px;
+}
+
+.card img{
+    max-height: 300px;
+    filter: opacity(0.2);
+}
+.card-link{
+    color: teal;
+}
+.card-footer{
+    background: none;
+}
+.card-footer div{
+    cursor: pointer;
+}
+.card-footer div i{
+    font-size: 18px;
+}
+.upvotes{
+    float: left;
+    margin-right: 50px
+}
+.downvotes{
+    float: left;
+    margin-right: 50px;
+}
+.share-post{
+    float: left;
+}
+.upload-time{
+    float: right;
+}
